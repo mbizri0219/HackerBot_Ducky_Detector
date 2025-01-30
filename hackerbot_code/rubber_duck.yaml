@@ -1,0 +1,7 @@
+path: "C:/Users/Guest1/Documents/hackerbot/rubber_duck_dataset" # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/train # using same as train since we're not doing validation
+
+# Classes
+names:
+  0: rubber_duck

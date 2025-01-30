@@ -1,0 +1,3 @@
+hostname: hackerbot
+username: mbizri
+password: Maher12345
